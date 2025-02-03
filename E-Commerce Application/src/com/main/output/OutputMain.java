@@ -17,7 +17,7 @@ public class OutputMain {
      
     	  Scanner scanner=new Scanner(System.in);
       
-        System.out.println("Enter Your Choice number for above Opertaion");
+        System.out.println("Enter Your Choice number for above Opertaion ");
         while(true) {
         String number=scanner.next();
 		
